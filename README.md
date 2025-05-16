@@ -21,7 +21,7 @@ PCOS Care is a web application designed to spread awareness about **Polycystic O
 ## 🛠 Installation & Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/PCOS-Care.git
+   git clone https://github.com/ranjanihub/PCOS-Care.git
    cd PCOS-Care
    ```
 2. **Install dependencies**
